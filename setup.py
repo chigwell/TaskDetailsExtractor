@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name='TaskDetailsExtractor',
-    version='0.0.2',
+    version='2025.5.180918',
     description='Extract detailed tasks for software project modification using GPT from OpenAI.',
     long_description=long_description,
     long_description_content_type='text/markdown',
